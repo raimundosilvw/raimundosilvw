@@ -1,13 +1,13 @@
-# Olá 👋, meu nome é Raimundo
+
 
 <img width="100%" src="https://i.ibb.co/djxS4WM/github-header-image.png" alt="my banner">
 
-## 💫 Liitle Bit More About Me
+## 💫  About Me
 <p>🌱 Estou aprendendo atualmenteJavaScript, ReactJS</p>
 <p>💬 Pergunte-me sobreDesenvolvimento Web</p>
 <p>📫 Como chegar até mim?@raimundosiilva</p>
 
-## 💻 Skills
+## 💻 Technology
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -25,19 +25,9 @@
 <a href="https://www.instagram.com/https://intagram.com/raimundosiilva"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=raimundosilvw">
-</p>
 
 ## 📊 Github Status
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=raimundosilvw"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=raimundosilvw&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundosilvw&layout=compact"><p>
