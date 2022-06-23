@@ -3,9 +3,9 @@
 <img width="100%" src="https://i.ibb.co/djxS4WM/github-header-image.png" alt="my banner">
 
 ## 💫  About Me
-<p>🌱 Estou aprendendo atualmenteJavaScript, ReactJS</p>
-<p>💬 Pergunte-me sobreDesenvolvimento Web</p>
-<p>📫 Como chegar até mim?@raimundosiilva</p>
+<p>🌱 Estou aprendendo atualmente: JavaScript, ReactJS</p>
+<p>💬 Pergunte-me sobre: Desenvolvimento Web</p>
+<p>📫 Como chegar até mim? raimundosilvw2014@gmail.com</p>
 
 ## 💻 Technology
 <p>
